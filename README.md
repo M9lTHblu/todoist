@@ -1,5 +1,5 @@
 ## Analogue of the todoist
-### On React + Bootstrap
+#### React Redux Toolkit Bootstrap
 
 
 ```
