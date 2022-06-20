@@ -14,7 +14,7 @@ export const App = () => {
 
   useEffect(() => {
     dispatch(loadTodos())
-  })
+  }, [])
 
   return (
       <Routes>
